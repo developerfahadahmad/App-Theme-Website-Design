@@ -1,0 +1,336 @@
+/* 1300px */
+@media (max-width: 1300px) {
+    iframe {
+        width: 550px;
+    }
+    .vid .vid-left {
+        width: 48%;
+        text-align: center;
+    }
+    .vid .vid-right {
+        width: 50%;
+        margin-left: 2%;
+        padding-right: 30px;
+        box-sizing: border-box;
+        text-align: justify;
+    }
+    .service-section.clear-fix {
+        box-sizing: border-box;
+        padding-left: 30px;
+    }
+    .price-section{
+        box-sizing: border-box;
+    }
+    .p-full.clear-fix {
+        padding-left: 30px;
+    }
+}
+/* 1285px */
+
+@media (max-width: 1285px) {
+    .price-menu-contant{
+        height: 800px;
+    } 
+    .price-list .price-btn{
+        font-size: 16px;
+    }
+}
+/* 1240px */
+@media (max-width: 1240px) {
+    .service{
+        width: 47.3%;
+    }
+}
+/* 1140px */
+@media (max-width: 1140px) {
+    iframe {
+        width: 500px;
+    }
+    .vid .vid-right {
+        width: 50%;
+        margin-left: 2%;
+        padding-right: 30px;
+        box-sizing: border-box;
+        text-align: justify;
+    }
+    .vid-right h2{
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+    .price-head {
+        padding: 20px 20px;
+    }
+    .price-head h4 {
+        font-size: 25px;
+        margin-bottom: 9px;
+    }
+    .price-head h1 {
+        font-size: 40px;
+        font-weight: 200;
+        margin-bottom: 20px;
+    }
+    .price-list .price-btn a{
+        padding: 20px 40px;
+    }
+}
+
+
+/* ----1060px RESPONSIVE----- */
+
+@media (max-width: 1060px) {
+    .menu {
+        width: 50%;
+    } 
+    .btn {
+        width: 20%;
+
+    }
+    iframe {
+        width: 600px;
+    }
+    .vid .vid-right {
+        width: 100%;
+        margin-left: 0;
+        padding: 30px;
+        box-sizing: border-box;
+        text-align: center;
+    }
+    .vid .vid-left {
+        width: 100%;
+        text-align: center;
+    }
+    .vid {
+        padding: 30px 0;
+    }
+    .service{
+        margin-right: 1%;
+    }
+    .service-section .ser-hed p {
+        font-size: 20px;
+        margin-bottom: 32px;
+    }
+    .service-section .ser-hed h1 {
+        font-size: 40px;
+        font-weight: 500;
+        margin-bottom: 20px;
+    }
+    .service p {
+        color: #B1B1B1;
+        font-size: 20px;
+        font-weight: 100;
+        font-family: sans-serif;
+        padding: 15px 0;
+        letter-spacing: 1px;
+    }
+}
+/* 980px */
+@media (max-width: 990px) {
+    .service {
+        margin-right: 3%;
+        margin-left: 4%;
+    }
+    .service {
+        width: 40.3%;
+    }
+    .service span i{
+        height: 160px;
+    }
+    .price-menu-contant {
+        width: 70%;
+        margin-right: 15%;
+        margin-left: 15%;
+        margin-bottom: 2%;
+    }
+    .price-section {
+        margin-top: 0px;
+    }
+}
+
+/* main css */
+.othar-span{
+    display: none;
+}
+
+/* ------888px RESPONSIVE -------*/
+
+    @media (max-width: 888px) {
+        .vid-right h2{
+           font-size: 35px; 
+        }
+        .vid {
+            padding: 20px 0;
+        }
+        .service {
+            width: 90.3%;
+        }
+        .price-menu-contant{
+            height: 850px;
+        } 
+    }
+/* ------860px RESPONSIVE -------*/
+
+@media (max-width: 860px) {
+    .logo span {
+        position: relative;
+        left: 0;
+        top: -20px;
+    }
+    .logo {
+        float: left;
+        width: 100%;
+        text-align: center;
+    }
+    .logo img {
+        width: 50px;
+        float: none;
+    }
+    .othar-span {
+        display: block;
+        font-size: 30px;
+        padding-top: 10px;
+    }
+    .menu ul{
+       opacity: 0;
+       visibility: hidden;
+    }
+    .btn{
+        width: 50%;
+    }
+    .menu{
+        text-align: left;
+        height: 50px;
+    }
+    .banner-txt h1{
+        font-size: 55px;
+    }
+    .banner-txt h3{
+        font-size: 25px;
+    }
+    .banner{
+        padding: 150px 0;
+    }
+    .vid {
+        padding: 20px 0;
+    }
+}
+/* mobile-btn */
+/* ----710px---- */
+@media (max-width: 710px) {
+    .vid-right h2{
+        font-size: 30px;
+    }
+}
+
+/* 670px */
+
+@media (max-width: 670px) {
+    .vid .vid-left {
+        width: 100%;
+        text-align: center;
+        padding: 0 20px;
+        box-sizing: border-box;
+    }
+    iframe{
+        width: 100%;
+    } 
+    .vid .vid-right {
+        width: 100%;
+        margin-left: 0;
+        padding: 30px;
+        box-sizing: border-box;
+        text-align: center;
+    } 
+    .vid-right h2 {
+        font-size: 28px;
+        font-weight: 489;
+        margin-bottom: 15px;
+    }
+    .vid-right p{
+        font-size: 16px;
+    }
+    .vid {
+        padding: 20px 0;
+    }
+}
+
+/* 570px  */
+
+@media (max-width: 570px) {
+    .banner-txt h1 {
+        font-size: 54px;
+        margin: 40px 20px;
+    }
+    .banner{
+        padding: 140px 0;
+    }
+    .banner a{
+        width: 80%;
+        margin-bottom: 20px;
+        padding: 20px 20px;
+    }
+    .vid-right h2 {
+        font-size: 26px;
+        margin-bottom: 15px;
+        font-weight: bold;
+    }
+
+}
+
+/* --520px--- */
+@media (max-width: 520px) {
+    .banner-txt h1{
+        font-size: 40px;
+    }
+    .banner-txt h3{
+        font-size: 20px;
+    }
+    .banner a{
+        padding: 15px 5px;
+    }
+    .service {
+        margin-right: 4%;
+        margin-left: 4%;
+    }
+    .service-section .ser-hed p {
+        font-size: 18px;
+        margin-bottom: 25px;
+    }
+    .service-section .ser-hed h1 {
+        font-size: 25px;
+        font-weight: bold;
+        margin-bottom: 16px;
+    }
+}
+
+/* 390px */
+
+@media (max-width: 390px) {
+    .banner-txt h1{
+        font-size: 30px;
+    }
+    .banner-txt h3{
+        font-size: 16px;
+    }
+    .banner{
+        padding: 100px 0;
+    }
+    .service {
+        margin-right: 4%;
+        margin-left: 0%;
+    }
+    
+    .service span i {
+
+        height: 60px;
+        margin-top: 10px;
+
+    }
+    .service-section .ser-hed p {
+        margin-right: 10px;
+        font-size: 15px;
+    }
+    .service-section .ser-hed h1 {
+        margin-right: 20px;
+        font-size: 25px;
+    }
+}
